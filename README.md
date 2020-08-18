@@ -8,4 +8,4 @@ npm install
 npm run start
 ```
 
-user can create there account , book tour , buy tour according to thee choice of locations.
+user can create there account , book tour , buy tour according to there choice of locations.
